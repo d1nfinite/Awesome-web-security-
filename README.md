@@ -21,6 +21,11 @@ Some resource is useful..
     - [数字签名是什么？](http://www.ruanyifeng.com/blog/2011/08/what_is_a_digital_signature.html)
     - [OWASP Secure Headers Project](https://www.owasp.org/index.php/OWASP_Secure_Headers_Project)
     
+- RCE
+    - [浅谈RCE绕过](http://pupiles.com/shellcode.html)
+    - [命令执行的tip](http://www.cnblogs.com/iamstudy/articles/some_exec_command_tip.html)
+    - [bash shell的用法](http://cn.linux.vbird.org/linux_basic/0320bash.php)
+    
 
 ### Tools
 
