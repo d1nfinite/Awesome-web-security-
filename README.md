@@ -37,9 +37,16 @@ Some resource is useful..
 - php trick
     - [Pwnhub 第一次线下沙龙竞赛Web题解析](https://xianzhi.aliyun.com/forum/read/1983.html)
     - [文件包含漏洞](https://thief.one/2017/04/10/2/)
+    - [php格式化字符串问题](https://paper.seebug.org/386/)
 - http_header
     - [http_referer](http://blog.csdn.net/u011250882/article/details/49679535)
+ 
+ - 服务器
+    - [Nginx如何处理一个请求](http://tengine.taobao.org/nginx_docs/cn/docs/http/request_processing.html)
+    - [Nginx服务器安装及配置文件详解](http://www.cnblogs.com/bluestorm/p/4574688.html)
     
+ - CRLF注入
+    - [CRLF injection on Twitter or why blacklists fail](https://blog.innerht.ml/twitter-crlf-injection/)   
 
 ### Tools
 
