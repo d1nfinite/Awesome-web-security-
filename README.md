@@ -14,9 +14,11 @@ Some resource is useful..
     - [XSSI](http://www.mbsd.jp/Whitepaper/xssi.pdf)(大多数方法针对最新浏览器已经失效，但是思路值得借鉴)
     - [浅谈XSS—字符编码和浏览器解析原理](https://security.yirendai.com/news/share/26)
     - [QQ邮箱反射型XSS](http://pirogue.org/2017/08/25/qqmailxss/)
+    - [XSS备忘录](http://momomoxiaoxi.com/2017/10/10/XSS/)
 
-- javascript
+- JSONP
     - [JSONP](https://tonghuashuo.github.io/blog/jsonp.html)
+    - [JSONP导致的安全问题](http://blog.knownsec.com/2015/03/jsonp_security_technic/)
 
 - Network
     - [实战端口转发](https://www.ibm.com/developerworks/cn/linux/l-cn-sshforward/index.html)
@@ -60,6 +62,9 @@ Some resource is useful..
 	 - [ssh后门命令引发的思考](https://xianzhi.aliyun.com/forum/mobile/read/790.html)
 	 - [应急响应姿势之观音坐莲](http://vinc.top/2017/09/20/linux%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94%E5%A7%BF%E5%8A%BF%E4%B9%8B%E8%A7%82%E9%9F%B3%E5%9D%90%E8%8E%B2/)
 	 - [auditd日志审计](https://linux.cn/article-4907-1.html)
+	 
+- java
+	 - [利用Java反射和类加载机制绕过JSP后门检测](https://xz.aliyun.com/t/2342#toc-8)
 
 - crypto
      - [哈希长度扩展攻击](http://www.freebuf.com/articles/web/69264.html) 
@@ -70,6 +75,8 @@ Some resource is useful..
 - other 
      - [漏洞发现的艺术](http://jackson.thuraisamy.me/finding-vulnerabilities.html)
 
+- kerberos
+     - [kerberos图解](http://www.cnblogs.com/wukenaihe/p/3732141.html)
     
 
 ### Tools
